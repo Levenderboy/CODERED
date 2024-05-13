@@ -1,4 +1,3 @@
-/*
 let score = "33"    // 33
 score = "33abc"     // NaN
 score = null        // 0
@@ -26,7 +25,7 @@ let stringNumber = String(someNumber)
 console.log(stringNumber)
 console.log(typeof(stringNumber))
 
-*/
+
 // ************* OPERATIONS **************//
 
 let value = 3
